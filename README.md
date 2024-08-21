@@ -8,7 +8,7 @@ FinLangNet is a specialized neural network module developed to address complex t
 
 ## Results Folder: 'UEA_results'
 
-Within the `UEA_results` directory, you'll find the results of the FinLangNet module's tests on the UEA dataset. 
+Within the `UEA_results` directory, you'll find the results of the FinLangNet module's code and tests on the UEA dataset. 
 ## Contribution
 
 We welcome contributions to the FinLangNet module. If you wish to contribute, please fork this repository, make your changes, and submit a pull request.
