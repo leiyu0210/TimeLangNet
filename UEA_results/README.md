@@ -9,13 +9,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 
 **Step 2**: Then install the rest of the required packages:
 ```
-cd langnet
 pip3 install -r requirements.txt
-```
-
-**Step 3**: Finally, install the `jupyter notebook` package:
-```
-pip3 install jupyter notebook
 ```
 
 
