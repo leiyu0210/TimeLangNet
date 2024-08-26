@@ -14,16 +14,17 @@ Within the `UEA_results` directory, you'll find the results of the FinLangNet mo
 
 ### Install Requirements
 
-This repository has been tested on the following platform:
-1) Python 3.10, PyTorch 2.4 with CUDA 11.8, Ubuntu 20.04
+**Step 1**: To get started with this repository, you'll need to follow these installation steps. Create a virtual environment.:
+```
+conda create --name finlangnet python=3.10
+```
 
-
-**Step 1**: To get started with this repository, you'll need to follow these installation steps. Before proceeding, make sure you have [Pytorch](https://pytorch.org/get-started/previous-versions/) installed. 
+**Step 2**: Then make sure you have [Pytorch](https://pytorch.org/get-started/previous-versions/) installed.
 ```
 pip3 install torch==2.4 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
-**Step 2**: Then install the rest of the required packages:
+**Step 3**: Finally, install the rest of the required packages:
 ```
 pip3 install -r requirements.txt
 ```
