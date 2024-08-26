@@ -1,4 +1,4 @@
-# TimeLangNet on UEA Dataset
+# FinLangNet on UEA Dataset
 
 
 ## Install Requirements
