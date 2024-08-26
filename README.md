@@ -13,24 +13,6 @@ pip3 install -r requirements.txt
 ```
 
 
-## Data Selection
-
-You can test different datasets by changing the 'dataset_names' in the following code:
-
-```
-path="Multivariate_ts/" #datasets path 
-flist = pd.read_csv("MSTC_Data.csv", header=None)
-flist = flist.to_numpy().tolist()
-
-print(flist)
-
-def readucr(filename):
-    data= load_from_tsfile_to_dataframe(filename)
-    return data
-dataset_names = [['Dataset Name']]
-```
-
-
 
 
 
