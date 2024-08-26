@@ -16,7 +16,8 @@ Within the `UEA_results` directory, you'll find the results of the FinLangNet mo
 
 This repository has been tested on the following platform:
 1) Python 3.10, PyTorch 2.4 with CUDA 11.8, Ubuntu 20.04
-   
+
+
 **Step 1**: To get started with this repository, you'll need to follow these installation steps. Before proceeding, make sure you have [Pytorch](https://pytorch.org/get-started/previous-versions/) installed. 
 ```
 pip3 install torch==2.4 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
