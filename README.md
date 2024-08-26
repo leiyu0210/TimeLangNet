@@ -15,7 +15,7 @@ Within the `UEA_results` directory, you'll find the results of the FinLangNet mo
 ### Install Requirements
 **Step 1**: To get started with this repository, you'll need to follow these installation steps. Before proceeding, make sure you have [Pytorch](https://pytorch.org/get-started/previous-versions/) installed. 
 ```
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip3 install torch==2.4 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
 
 **Step 2**: Then install the rest of the required packages:
