@@ -19,7 +19,7 @@ Within the `UEA_results` directory, you'll find the results of the FinLangNet mo
 conda create --name finlangnet python=3.10
 ```
 
-**Step 2**: Then make sure you have [Pytorch](https://pytorch.org/get-started/previous-versions/) installed.
+**Step 2**: Then make sure you have [Pytorch](https://pytorch.org/get-started/previous-versions/) installed:
 ```
 pip3 install torch==2.4 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
