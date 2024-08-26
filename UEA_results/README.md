@@ -1,6 +1,4 @@
-# LESS: Selecting Influential Data for Targeted Instruction Tuning
-
-This repo contains the code for our AAAI 2024 paper[FinLangNet]. In this work, we propose a data selection method to select influential data to induce a target capability.
+# TimeLangNet on UEA Dataset
 
 
 ## Install Requirements
